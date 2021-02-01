@@ -1,0 +1,3 @@
+module ResistorColor
+
+end
